@@ -1,0 +1,50 @@
+.d-block{
+    height: 850px;
+}
+.nav-bar-color{
+   background-color:rgb(192, 128, 33);
+  
+}
+.navbar{
+    position: sticky;
+}
+
+
+
+.displayimg{
+    width: 100%;
+    display: flex;
+    border-radius: 100px;
+}
+.mainfn{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+}
+.abt-section{
+    border: 2px solid rgb(211, 211, 211);
+    border-radius: 10px;
+    box-shadow: 4px 2px 4px 2px;
+}
+.slid-text{
+    font-size: 80px;
+    margin-bottom: 250px;
+}
+.h1-size{
+    font-size: 50px;
+}
+.maptext{
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btn-size{
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: rgb(245, 150, 8);
+    font-weight: bold;
+}
